@@ -232,6 +232,7 @@ Your new action will run any time a pull request has been opened.
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
+  This wasn't an easy stuff to understand
 -->
 
 <details id=X open>
